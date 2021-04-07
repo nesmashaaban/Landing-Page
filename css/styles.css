@@ -22,7 +22,6 @@ body {
 /* Typeography General*/
 h1 {
     font-family: 'Fira Sans', sans-serif;
-    margin: 2em 1rem;
 }
 
 @media only screen and (min-width: 35em){
